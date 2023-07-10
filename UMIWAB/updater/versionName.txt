@@ -1,3 +1,3 @@
-versionName=22.0
+versionName=21.0
 webpageUrl=https://umiwab.site
-dialogTitle=UMIWhatsApp Business v22.0
+dialogTitle=UMIWhatsApp Business v21.0
